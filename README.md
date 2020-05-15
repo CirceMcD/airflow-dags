@@ -3,7 +3,7 @@ Date: May 5, 2020
 
 Subscription: airflow_rg_circe
 
-Storage Accounts (50GB_ : 
+Storage Accounts (50GB) : 
  
 * pvc-airflowstoreaccount1-container-logging
 * pvc-airflowstoreaccount1-container-output
