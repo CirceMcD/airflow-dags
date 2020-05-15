@@ -3,12 +3,6 @@ Date: May 5, 2020
 
 Subscription: airflow_rg_circe
 
-Links: 
-
-http://airflow-web2.ddns.net/admin/
-
-http://airflow-flower2.ddns.net/
-
 Storage Accounts (50GB_ : 
  
 * pvc-airflowstoreaccount1-container-logging
